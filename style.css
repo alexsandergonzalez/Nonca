@@ -1,0 +1,13 @@
+.caracteristicas{
+    color: blue;
+}
+
+.caracteristicas.{
+color: blue;
+}
+
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
